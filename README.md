@@ -1,4 +1,4 @@
-Privacy Policy for HA Dock Control
+Privacy Policy for Home Integrator Core
 
 Introduction: This service is provided at no cost and is intended for use "as is".
 
